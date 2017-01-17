@@ -5,7 +5,7 @@ Markup
 MarkupJS
 ======
 
-[MarkupJS](http://aqnote.com) is a free, open, simple Markdown powered Knowledgebase for Nodejs. [Find out more &rarr;](http://docs.aqnote.com/what-is-MarkupJS)
+[MarkupJS](http://aqnote.com) is a free, open, simple Markdown powered Knowledgebase for Nodejs. [Find out more &rarr;](http://aqnote.com)
 
 Requirements
 ------------
